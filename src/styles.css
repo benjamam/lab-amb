@@ -1,3 +1,8 @@
 h1 {
     color:red;
 }
+
+body {
+    padding-left: 3em;
+    width: 50%;
+}
